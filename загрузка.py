@@ -24,5 +24,5 @@ try:
 
 
 finally:
-
+    time.sleep(12) #прочтем и посмотрим, что произойдет
     browser.quit()
